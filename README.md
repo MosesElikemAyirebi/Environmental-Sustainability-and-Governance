@@ -1,0 +1,1 @@
+Policy Impact: This research contributed to Governor Maura Healey's decision to halt data center sales tax incentives in Massachusetts and informed the release of one of the most comprehensive data center development frameworks in the nation (June 2026). See: mass.gov/news/governor-healey-halts-data-center-tax-incentive
