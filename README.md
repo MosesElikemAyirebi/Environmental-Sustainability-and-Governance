@@ -1,1 +1,3 @@
 Policy Impact: This research contributed to Governor Maura Healey's decision to halt data center sales tax incentives in Massachusetts and informed the release of one of the most comprehensive data center development frameworks in the nation (June 2026). See: mass.gov/news/governor-healey-halts-data-center-tax-incentive
+Key Research: AI Data Center Policy Memo across seven US states, submitted to the Massachusetts General Court, April 2026. West Africa Rooftop Solar Potential: 28,666 GWh across five Ghanaian cities using PVGIS-SARAH3 satellite data, published in Modern Ghana. BlueBike Station Access and MBTA Transit Equity Analysis, Boston.
+Portfolio: moses-ayirebi.netlify.app"
